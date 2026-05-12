@@ -43,7 +43,7 @@ Lightweight: The final LoRA weights are small (~10-50MB), making them easy
 to share and deploy.
 
 How to Run:
-Upload the Üretken.ipynb to Google Colab.
+Upload the Project.ipynb to Google Colab.
 Ensure the Icons-50.npy.zip is available in your Google Drive.
 Run the training cells to generate your unique safetensors file.
 Use the inference cell to generate custom icons from text prompts.
